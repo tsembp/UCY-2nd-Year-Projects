@@ -1,2 +1,2 @@
 # 🎓UCY-2nd-Year-Projects
-A collection of coding assignments from my second year of university as a Computer Science student.
+This repository will soon be updated with Java/C/MIPS Assembly Projects completed during my 2nd (current) year of computer science studies.
