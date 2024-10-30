@@ -1,8 +1,8 @@
 @mainpage
 
-# Managing Chemical Formulas with Dynamic Structures
+# 🧬 Managing Chemical Formulas with Dynamic Structures
 
-## Overview
+## 📝 Overview
 This project processes chemical formulas, expanding them into full molecular representations, validating parentheses, and calculating the total number of protons for each formula based on atomic numbers from the periodic table. Dynamic stacks are used to efficiently manage elements and parentheses while parsing the formulas.
 
 **Author:** Panagiotis Tsembekis
