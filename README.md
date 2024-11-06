@@ -9,3 +9,6 @@ This repository contains coding projects that I've completed during my 2nd (curr
 - **Description**: This project processes chemical formulas, expanding them into full molecular representations, validating parentheses, and calculating the total number of protons for each formula based on atomic numbers from the periodic table. Dynamic stacks are used to efficiently manage elements and parentheses while parsing the formulas.
 - **Grade**: To be announced...
 
+## Assignment 3: Automated Latin Square Game ⚙️
+You can find this project in a seperate repository by clicking [here]([url](https://github.com/tsembp/EPL232-HW3)).
+
