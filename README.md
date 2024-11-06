@@ -10,5 +10,6 @@ This repository contains coding projects that I've completed during my 2nd (curr
 - **Grade**: To be announced...
 
 ## Assignment 3: Automated Latin Square Game ⚙️
-You can find this project in a seperate repository by clicking [here]([url](https://github.com/tsembp/EPL232-HW3)).
+You can find this project in a seperate repository by clicking [here](https://github.com/tsembp/EPL232-HW3).
+
 
