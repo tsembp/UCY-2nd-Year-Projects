@@ -19,7 +19,7 @@ You can find this project in a seperate repository by clicking [here](https://gi
 
 ### Assignment 3: Automated Latin Square Game ⚙️
 > - **Description**: This project consists of a Latin Square puzzle that is automatically played by a backtracking algorithm. The algorithm finds the first-in-order empty cell and places the first-in-order number that aadheres to the rules of the game. When no number can be placed, the algorithm backtracks to previous states of the tableau and finds a number, different from the one inserted before, to be placed in the tableau and continue from there.
-> - **Grade**: To be announced...
+> - **Grade**: 100/100
 
 You can find this project in a seperate repository by clicking [here](https://github.com/tsembp/EPL232-HW3).
 
